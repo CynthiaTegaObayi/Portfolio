@@ -1,0 +1,20 @@
+* {
+    background-color: #032223;
+    color: white;
+    
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    text-decoration: none;
+}
+img {
+    width:540px;
+    height:auto;
+}
+#About-me h3:hover {
+    color:blue
+}
+
