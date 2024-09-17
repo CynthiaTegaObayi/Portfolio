@@ -1,0 +1,38 @@
+*{
+    background-color:#0a192f;
+    color: aliceblue;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    text-decoration: none;
+}
+img {
+    width:540px;
+    height:auto;
+    display: flex;
+    justify-content: flex-end;
+}
+#About-me h3:hover {
+    color:blue
+}
+#target {
+    color:#8892b0;
+}
+.work {
+    position:relative;
+    left:50px;
+}
+.class {
+    position:relative;
+    left:50px;
+}
+.section {
+    position:relative;
+    left:50px;
+}
+.start {
+    position: relative;
+    left:1500px;
+}
